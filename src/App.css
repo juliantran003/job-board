@@ -58,12 +58,12 @@ p {
 
 @media (max-width: 1024px) {
   .jobs {
-    width: 660px;
+    width: 640px;
   }
 }
 
 @media (max-width: 768px) {
   .jobs {
-    width: 340px;
+    width: 280px;
   }
 }
