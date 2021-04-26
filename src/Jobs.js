@@ -10,7 +10,6 @@ const Jobs = (props) => {
       <div>{props.jobs7}</div>
       <div>{props.jobs8}</div>
       <div>{props.jobs9}</div>
-      <div>{props.jobs10}</div>
     </div>
   );
 };
